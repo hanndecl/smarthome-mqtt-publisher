@@ -1,0 +1,9 @@
+{
+  "id":"15",
+  "type":"hello",
+  "payload":{
+    "appId":"dch",
+    "appName":"declercq-hannes",
+    "appRegion":"be-nl"
+  }
+}

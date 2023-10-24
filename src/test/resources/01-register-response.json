@@ -1,0 +1,8 @@
+{
+  "type": "response",
+  "id": "15",
+  "payload": {
+    "pairingType": "PROMPT",
+    "returnValue": true
+  }
+}

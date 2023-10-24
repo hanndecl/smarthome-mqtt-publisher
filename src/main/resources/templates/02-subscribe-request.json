@@ -1,0 +1,6 @@
+{
+  "id":"${uuid}",
+  "type":"subscribe",
+  "uri":"${subscribe-uri}",
+  "payload": {}
+}

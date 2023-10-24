@@ -1,0 +1,5 @@
+smart-home:
+  lg-webos-devices:
+    - id: living
+      client-key: bb503e329e7890f86b98cfab3dc36479
+      host-name: lgwebostv-living.declercq.home

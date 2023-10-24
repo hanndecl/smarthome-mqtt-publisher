@@ -1,0 +1,43 @@
+{
+  "id": "15",
+  "type": "register",
+  "payload": {
+    "pairingType": "PROMPT",
+    "manifest": {
+      "manifestVersion": 1,
+      "appVersion": "1.1",
+      "appId": "be.declercq.smarthome.mqtt",
+      "vendorId": "be.declercq",
+      "localizedAppNames": {
+        "": "SmartHome MQTT"
+      },
+      "localizedVendorNames": {
+        "": "DCH Electronics"
+      },
+      "permissions": [
+        "LAUNCH",
+        "LAUNCH_WEBAPP",
+        "APP_TO_APP",
+        "CLOSE",
+        "TEST_OPEN",
+        "TEST_PROTECTED",
+        "CONTROL_AUDIO",
+        "CONTROL_DISPLAY",
+        "CONTROL_INPUT_JOYSTICK",
+        "CONTROL_INPUT_MEDIA_RECORDING",
+        "CONTROL_INPUT_MEDIA_PLAYBACK",
+        "CONTROL_INPUT_TV",
+        "CONTROL_POWER",
+        "READ_APP_STATUS",
+        "READ_CURRENT_CHANNEL",
+        "READ_INPUT_DEVICE_LIST",
+        "READ_NETWORK_STATE",
+        "READ_RUNNING_APPS",
+        "READ_TV_CHANNEL_LIST",
+        "WRITE_NOTIFICATION_TOAST",
+        "READ_POWER_STATE",
+        "READ_COUNTRY_INFO"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "response",
+  "id": "15",
+  "payload": {
+    "volumeStatus": {
+      "cause": "volumeUp",
+      "mode": "normal",
+      "adjustVolume": true,
+      "activeStatus": true,
+      "muteStatus": false,
+      "volume": 9,
+      "soundOutput": "tv_speaker",
+      "maxVolume": 100
+    },
+    "returnValue": true,
+    "callerId": "com.webos.platformstarfish"
+  }
+}
